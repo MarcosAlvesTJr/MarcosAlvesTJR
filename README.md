@@ -1,2 +1,7 @@
+
 ## Olá 👋
- <br/> :computer: &nbsp; Minha stack: ReactJS/Vue.js, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; Minha stack:
+ - Node.js
+ - Vue.js
+ - ReactJS/React Native
+ - Typescript
